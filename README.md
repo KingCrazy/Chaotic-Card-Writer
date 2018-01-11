@@ -1,16 +1,21 @@
 # Chaotic Card Writer
-Chaotic Card Writer is an application designed to allow users to fill out information onto blank Chaotic cards.
-This application was initially developed by github.com/KingCrazy as a replacement for his original Python version that looked like
-it was programmed by a literal chimpanzee.
+Copyright 2018 [KingCrazy](github.com/KingCrazy)
 
-This application is intended to be completely free. Users are free to download, modify, and use this application. No profits has been
-made, nor ever will be made, off the development and distribution of this software. If you see someone attempting to sell this software
-for profit, please notify the developers immediately.
+Project page:  [Chaotic-Card-Writer](https://github.com/KingCrazy/Chaotic-Card-Writer)
 
-The Chaotic Card Writer application is copyright (c) github.com/KingCrazy
+# About
+Chaotic Card Writer is a light-weight application designed to assist in filling out stat values onto blank card images from the Trading Card Game "Chaotic."
 
-The Chaotic trademark is property of its respective owner. The developers of this software in no way claim any rights to the Chaotic
-name, trading card game, TV show, characters, artwork, or any other intellectual property associated with the franchise.
+The application is developed in C# using Windows Forms for the GUI. Currently the application is only available on Windows platforms, but cross-platform development will be considered in the future if there's demand for it.
 
-This application was made out a pure love for the series, in hopes of inspiring others to continue creating and to continue the legacy of
-a once amazing card game.
+## History
+The program was originally developed in Python to speed up the process of developing a mod for Tabletop Simulator. Upon reviewing the original application, many potential improvements were considered and implemented into a complete re-write in C#. It also doesn't look like it was coded by a blink chimpanzee anymore.
+
+# Distribution
+This application is entirely free to download and use. No money has been made, or will ever be made, off the distribution of this program. You can find the most up-to-date official releases of Chaotic Card Writer on the [project releases page](https://github.com/KingCrazy/Chaotic-Card-Writer/releases).
+
+# Contribution
+Contribution to project is entirely welcomed and encouraged! Feel free to fork the project and make pull requests of your own changes. Not a coder? No worries! Supporting and using the application is plenty. Know a language other than English? Feel free to contribute language localization files for others to use!
+
+# Donation
+This project and application is completely free, and will never be locked behind any sort of paywall! Donations are entirely optional, and not expected in the slightest. However, if you'd like to donate, you can 
