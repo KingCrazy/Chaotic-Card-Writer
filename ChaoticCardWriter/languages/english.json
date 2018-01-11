@@ -1,0 +1,49 @@
+{
+"language":"English",
+"title":"Chaotic Card Writer",
+
+"menu_file": "File",
+"menu_write_from_file":"Write From File",
+"menu_save_as":"Save As",
+"menu_about":"About",
+"menu_load_image":"Load Image",
+"menu_settings":"Settings",
+"menu_help":"Help",
+
+"button_adjust":"Adjust",
+"button_font":"Font",
+"button_reset":"Reset",
+"button_reset_all":"Reset All",
+"button_OK":"OK",
+"button_cancel":"Cancel",
+"button_browse":"Browse",
+"button_done":"Done",
+"button_write":"Write",
+
+"label_courage":"Courage",
+"label_power":"Power",
+"label_wisdom":"Wisdom",
+"label_speed":"Speed",
+"label_energy":"Energy",
+"label_stats_file":"Stats File",
+"label_source_folder":"Source Folder",
+"label_destination_folder":"Destination Folder",
+"label_card_writer_counter":"Begin Counting:",
+"label_localization":"Localization",
+"label_version":"Version",
+"label_format":"Format",
+"label_warning":"Warning!",
+
+"desc_stats_file":"Select a file to generate cards from. See documentation for an example.",
+"desc_source_folder":"Select the directory in which your image files are located.",
+"desc_destination_folder":"Select the directory to save your cards in.",
+"desc_program":"Chaotic Card Writer is and application designed to assist users in writing numerical values onto images, for intended use with the Chaotic collectable card game.
+
+Chaotic Card Writer is in no way affiliated with the Chaotic intellectual property, TV show, collectable card game, online services, or development team. All rights to the Chaotic trademark, logo, artwork, or anything associated with the intellectual property are held by their respective owners.
+
+This is an unofficial program, designed for free, public distribution. No profits have been made from this application.",
+
+"warn_stats_odd":"Warning: An odd number of lines was detected in the stats file. One or more cards may have incorrect stats, or may not have been written at all.",
+"warn_stats_error":"Oops! There was an error writing the files. One or more files may not have been successfully written. Check to make sure your stats file is formatted correctly.",
+"warn_stats_path_empty":"One or more paths are empty.",
+}
