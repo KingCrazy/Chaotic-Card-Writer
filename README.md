@@ -18,4 +18,4 @@ This application is entirely free to download and use. No money has been made, o
 Contribution to project is entirely welcomed and encouraged! Feel free to fork the project and make pull requests of your own changes. Not a coder? No worries! Supporting and using the application is plenty. Know a language other than English? Feel free to contribute language localization files for others to use!
 
 # Donation
-This project and application is completely free, and will never be locked behind any sort of paywall! Donations are entirely optional, and not expected in the slightest. However, if you'd like to donate, you can 
+This project and application is completely free, and will never be locked behind any sort of paywall! Donations are entirely optional, and not expected in the slightest. However, if you'd like to donate, you can at my [PayPal account](paypal.me/floppyearfreak).
